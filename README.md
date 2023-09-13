@@ -34,4 +34,4 @@ EvicardioChatbot es un chatbot generativo desarrollado para proporcionar informa
 
 ## Responsabilidad
 
-Se espera que los profesionales de la salud utilicen esta información de manera responsable y que verifiquen la información médica crítica con fuentes adicionales. EvicardioChatbot es un asistente en preguntas sobre el libro "Evidencias en Cardiología. Décima edición". Los usuarios deben aplicar su criterio y juicio profesional al utilizar este recurso.
+EvicardioChatbot es un asistente en preguntas sobre el libro "Evidencias en Cardiología. Décima edición". Los usuarios deben aplicar su criterio y juicio profesional al utilizar este recurso, se espera que lo usen de manera responsable y que verifiquen la información médica crítica con fuentes adicionales. 

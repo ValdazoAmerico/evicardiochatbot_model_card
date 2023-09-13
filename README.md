@@ -13,27 +13,25 @@ EvicardioChatbot es un chatbot generativo desarrollado para proporcionar informa
 **Casos de Uso:**
 
 - Proporcionar información del libro "Evidencias en Cardiología. Décima edición" sobre estudios y ensayos clínicos en Cardiología.
-- Responder preguntas generales sobre temas relacionados con la Cardiología.
 - Ayudar a los profesionales de la salud a acceder a información actualizada respaldada por evidencia médica.
 
 ## Limitaciones
 
 - EvicardioChatbot no debe utilizarse como sustituto de la opinión de un profesional de la salud. No proporciona consejos médicos específicos para casos individuales.
-- Si bien se ha hecho un esfuerzo por proporcionar respuestas precisas, siempre existe la posibilidad de que el chatbot no pueda abordar todas las preguntas o pueda proporcionar información incompleta en ciertos casos.
 - El chatbot se basa en información contenida en el libro "Evidencias en Cardiología. Décima edición", por lo que su conocimiento está limitado a ese contenido.
-- EvicardioChatbot no es capaz de realizar diagnósticos médicos ni proporcionar recetas médicas ni emitir indicaciones o tratamientos médicos.
+- Si bien se ha hecho un esfuerzo por proporcionar respuestas precisas, siempre existe la posibilidad de que el chatbot no pueda abordar todas las preguntas o pueda proporcionar información incompleta en ciertos casos.
+- **Se espera que los profesionales de la salud utilicen esta información de manera responsable. Es fundamental que el profesional de la salud aplique su juicio antes de actuar basándose en las respuestas proporcionadas por el chatbot. La responsabilidad de tomar decisiones médicas finales recae en el profesional de la salud calificado que utiliza este chatbot.**
+- **EvicardioChatbot no tiene la capacidad de proporcionar diagnósticos médicos, recetas médicas ni emitir indicaciones o tratamientos médicos válidos. Sus respuestas deben considerarse como información general y educativa, y no deben ser interpretadas como diagnósticos, recetas o indicaciones médicas válidas. Se recomienda encarecidamente que los profesionales de la salud verifiquen y validen cualquier información crítica proporcionada por el chatbot con fuentes adicionales y ejerzan su juicio profesional al tomar decisiones médicas finales.**
 
 ## Privacidad y Seguridad
 
-- Los datos de los usuarios se protegen de acuerdo con las regulaciones de privacidad médica aplicables.
 - EvicardioChatbot no almacena ni divulga información personal de los usuarios.
-- Se han implementado medidas de seguridad para evitar la divulgación de datos confidenciales.
 
 ## Consideraciones Éticas
 
-- EvicardioChatbot se desarrolló con el objetivo de proporcionar información precisa y actualizada a profesionales de la salud.
+- EvicardioChatbot se desarrolló con el objetivo de proporcionar información precisa y actualizada a profesionales de la salud sobre el libro "Evidencias en Cardiología. Décima edición".
 - Si bien se ha configurado el modelo para proporcionar información basada en el libro y no emitir consejos médicos ni otro tipo de información, es importante reconocer la naturaleza probabilística de los modelos de IA generativa. Por lo tanto, en el caso de que el chatbot no cumpla con esta configuración, se recomienda enfáticamente que estas respuestas sean verificadas en conjunto con otras fuentes de información y bajo la supervisión de un profesional de la salud. Esto asegura que la información sea apropiada y segura para cada individuo.
 
 ## Responsabilidad
 
-Se espera que los profesionales de la salud utilicen esta información de manera responsable y que verifiquen la información médica crítica con fuentes adicionales. EvicardioChatbot es simplemente un asistente en preguntas sobre cardiología general y estudios clínicos publicados en el libro "Evidencias en Cardiología". Los usuarios deben aplicar su criterio y juicio profesional al utilizar este recurso.
+Se espera que los profesionales de la salud utilicen esta información de manera responsable y que verifiquen la información médica crítica con fuentes adicionales. EvicardioChatbot es un asistente en preguntas sobre el libro "Evidencias en Cardiología. Décima edición". Los usuarios deben aplicar su criterio y juicio profesional al utilizar este recurso.
